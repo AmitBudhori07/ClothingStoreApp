@@ -15,16 +15,22 @@ module.exports = {
     black: {
       light: '#E5E5E5',
       DEFAULT: '#FFF',
+      lightdark:'#CFCFCF',
       dark: '#5D646A',
     },
     gray: {
       light: '#F5F6F8',
       lighter: '#E5E5E5',
       DEFAULT: 'gray',
+      lightdark:'#5D5D5D',
       dark: '#87919A',
     },
     white:{
-      DEFAULT:'#FFFFFF'
+      DEFAULT:'#FFFFFF',
+      dark:'#F3F3F3'
+    },
+    red:{
+      dark:"#F0494A"
     }
   },
     extend: {

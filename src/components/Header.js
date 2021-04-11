@@ -15,7 +15,7 @@ function Nav() {
                 <div className="pt-2 relative mx-auto text-gray-600 flex-auto">
                     <i className="fas fa-search absolute p-3 pl-4 text-gray-dark"></i>
                     <input className="border-gray-300 bg-gray-light h-10 pl-14 pr-5 rounded-lg bg-gray-light focus:outline-none w-8/12"
-                        type="search" name="search" placeholder="Search for News" />
+                        type="search" name="search" placeholder="Find Fitness Gear" />
                         <i className="fas fa-bell transform scale-150 pl-10"></i>
                         <i className="fas fa-envelope transform scale-150 pl-10"></i>
                         <i className="fas fa-pencil-alt transform scale-150 pl-10"></i>
